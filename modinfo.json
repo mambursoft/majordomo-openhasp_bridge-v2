@@ -1,0 +1,1 @@
+{"name":"openhasp_bridge","version":"1.0.0","title":"openHASP Bridge v2","description":"Синхронизация объектов панелей openHASP через MQTT-мост MajorDoMo.","author":"mambursoft","license":"MIT","category":"hardware"}
